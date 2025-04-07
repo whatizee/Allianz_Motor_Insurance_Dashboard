@@ -30,4 +30,3 @@ This Power BI dashboard provides an analytical view of motor insurance data from
 View the live dashboard here:  
 [Power BI Report Link](https://app.powerbi.com/groups/me/reports/10fbf18e-8185-4916-9768-d68891562a74/0d3defe99605e2816c15?experience=power-bi)
 
-## 📁 Repository Structure
